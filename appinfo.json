@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "kenned67@purdue.edu",
+    "longName": "Watchface1",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Watchface1",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "53da7c2c-74b4-4831-a63f-de2e15db447e",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
